@@ -39,7 +39,6 @@ doi = {10.1021/acs.iecr.1c04731}
 ## AUTHORS 
 ### Maintainers of the repository 
 - Sai Gokul Subraveti (subravet@ualberta.ca)
-- test
 
 ### Project Contributors 
 - Prof. Dr. Arvind Rajendran (arvind.rajendran@ualberta.ca)
